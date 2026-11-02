@@ -14,6 +14,7 @@ My project repository for wrapping up my final projects in case I attempt MySkil
 - Python for Data Analysis (Completed)  
   [User Retention Retail Analysis](https://github.com/alaikhaikal951/MySkill-Data-Science-and-Analysis/blob/main/User_Retention_Retail_Analysis.ipynb)  
   [User Segmentation on Online Retail](https://github.com/alaikalfaizi/MySkill-Data-Science-and-Analysis/blob/main/User_Segmentation.ipynb)  
+  [Market Basket Analysis](https://github.com/alaikalfaizi/MySkill-Data-Science-and-Analysis/blob/main/Market_Basket_Analysis.ipynb)  
 - Python for Data Science
 - Microsoft Power BI
 
